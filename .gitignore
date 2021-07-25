@@ -1,0 +1,4 @@
+# Ignoramos node_modules ya que todos los paquetes que necesitamos estan en package.json
+node_modules/
+
+/salida/*.txt
